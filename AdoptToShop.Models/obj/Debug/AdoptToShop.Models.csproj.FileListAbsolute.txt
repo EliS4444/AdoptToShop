@@ -1,0 +1,11 @@
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\bin\Debug\AdoptToShop.Models.dll.config
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\bin\Debug\AdoptToShop.Models.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\bin\Debug\AdoptToShop.Models.pdb
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\obj\Debug\AdoptToShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\obj\Debug\AdoptToShop.Models.csproj.CopyComplete
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\obj\Debug\AdoptToShop.Models.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Models\obj\Debug\AdoptToShop.Models.pdb
