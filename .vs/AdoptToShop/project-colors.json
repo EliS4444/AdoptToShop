@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a1ebdc0-4743-4d4c-b1ca-2e2b826004c1": {
+      "ProjectGuid": "2a1ebdc0-4743-4d4c-b1ca-2e2b826004c1",
+      "DisplayName": "AdoptToShop.WebMVC",
+      "ColorIndex": 0
+    },
+    "f8ac1725-8f89-4e7e-a71f-d039ee4586eb": {
+      "ProjectGuid": "f8ac1725-8f89-4e7e-a71f-d039ee4586eb",
+      "DisplayName": "AdoptToShop.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

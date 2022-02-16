@@ -51,6 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdopterCreate.cs" />
+    <Compile Include="AdopterDetail.cs" />
+    <Compile Include="AdopterEdit.cs" />
+    <Compile Include="AdopterListItem.cs" />
     <Compile Include="AnimalCreate.cs" />
     <Compile Include="AnimalEdit.cs" />
     <Compile Include="AnimalListItem.cs" />

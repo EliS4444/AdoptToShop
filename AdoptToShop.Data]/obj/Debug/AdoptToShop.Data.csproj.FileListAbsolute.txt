@@ -1,0 +1,15 @@
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\AdoptToShop.Data].dll.config
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\AdoptToShop.Data].dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\AdoptToShop.Data].pdb
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\EntityFramework.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\EntityFramework.xml
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.CopyComplete
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data].dll
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data].pdb
