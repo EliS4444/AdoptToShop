@@ -9,10 +9,11 @@ C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\b
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.AssemblyReference.cache
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data_.Migrations.InitialCreate.resources
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data_.Migrations.updatedatabase.resources
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.GenerateResource.cache
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.CoreCompileInputs.cache
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.CopyComplete
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data].dll
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data].pdb
-C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.AssemblyReference.cache
-C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data_.Migrations.InitialCreate.resources
-C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.GenerateResource.cache

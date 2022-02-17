@@ -60,11 +60,28 @@
     <Compile Include="Adopter.cs" />
     <Compile Include="Animal.cs" />
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Migrations\202202161803501_InitialCreate.cs" />
+    <Compile Include="Migrations\202202161803501_InitialCreate.designer.cs">
+      <DependentUpon>202202161803501_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202171807126_update-database.cs" />
+    <Compile Include="Migrations\202202171807126_update-database.designer.cs">
+      <DependentUpon>202202171807126_update-database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202202161803501_InitialCreate.resx">
+      <DependentUpon>202202161803501_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202171807126_update-database.resx">
+      <DependentUpon>202202171807126_update-database.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

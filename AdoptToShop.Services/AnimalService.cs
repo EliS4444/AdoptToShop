@@ -29,7 +29,7 @@ namespace AdoptToShop.Services
                     Sex = model.Sex,
                     Breed = model.Breed,
                     Age = model.Age,
-                    IsSpayed = model.IsSpayed,
+                    Spayed = model.Spayed,
                     Description = model.Description,
                 };
 

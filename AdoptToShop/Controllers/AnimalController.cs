@@ -65,7 +65,7 @@ namespace AdoptToShop.Controllers
                     Sex = detail.Sex,
                     Breed = detail.Breed,
                     Age = detail.Age,
-                    IsSpayed = detail.IsSpayed,
+                    Spayed = detail.Spayed,
                     Description = detail.Description,
                     Availability = detail.Availability
                 };
