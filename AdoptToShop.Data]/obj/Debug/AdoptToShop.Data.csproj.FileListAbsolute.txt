@@ -13,3 +13,6 @@ C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\o
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.CopyComplete
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data].dll
 C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data].pdb
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.AssemblyReference.cache
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data_.Migrations.InitialCreate.resources
+C:\Users\Eli Sokolow\Desktop\ElevenFiftyProjects\AdoptToShop\AdoptToShop.Data]\obj\Debug\AdoptToShop.Data.csproj.GenerateResource.cache

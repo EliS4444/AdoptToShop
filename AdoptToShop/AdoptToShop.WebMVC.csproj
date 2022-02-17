@@ -272,10 +272,14 @@
     <Content Include="Views\Animal\Details.cshtml" />
     <Content Include="Views\Animal\Edit.cshtml" />
     <Content Include="Views\Animal\Delete.cshtml" />
+    <Content Include="Views\Adopter\Index.cshtml" />
+    <Content Include="Views\Adopter\Create.cshtml" />
+    <Content Include="Views\Adopter\Detail.cshtml" />
+    <Content Include="Views\Adopter\Edit.cshtml" />
+    <Content Include="Views\Adopter\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Adopter\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
