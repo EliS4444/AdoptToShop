@@ -20,3 +20,7 @@ The main goal of this exercise is to gain practice using:
 MVC Applications
 Deploying to Github
 Using self implemented error correcting tactics
+
+
+To view:
+Azure: https://adopttoshopwebmvc.azurewebsites.net
