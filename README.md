@@ -22,5 +22,4 @@ Deploying to Github
 Using self implemented error correcting tactics
 
 
-To view:
-Azure: https://adopttoshopwebmvc.azurewebsites.net
+View it here: https://adopttoshopwebmvc.azurewebsites.net
